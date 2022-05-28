@@ -1,26 +1,3 @@
-# THIS IS THE FRAME OF CREATING PYGAME
-# import pygame
-
-# x= pygame.init()
-# print(x)    # this is only used for testing that the pygame is working or not
-#now creating window 
-# gameWindow = pygame.display.set_mode((1000,500))          #double bracket should be there
-# pygame.display.set_caption("flappy bird")
-#creating specific value
-# game_over = False
-# exit_game = False
-#creating a game loop 
-# while not game_over:
-#     for event in pygame.event.get():
-#          if event.type == pygame.QUIT:
-#              exit_game = True
-    
-#     if event.type == pygame.KEYDOWN:
-#         if event.type == KEY_RIGHT:
-#             print("you have pressed right key" )
-
-# pygame.quit()
-# quit()
 
 
 # SNAKE GAME
@@ -267,6 +244,6 @@ def gameloop():
     quit()
 gameloop()
 
-87
+
 
 
